@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[samuelmarks]]></title>
+        <description><![CDATA[samuelmarks]]></description>
+        <link>https://thegrid.ai/samuelmarks/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 08 Jun 2016 03:01:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/samuelmarks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Samuel Marks' Album || Love is Won]]></title>
+            <link>http://kck.st/1XZo04x</link>
+            <guid isPermaLink="false">f6ad702e-327a-48dc-bdfd-0cc50059a581</guid>
+            <pubDate>Wed, 08 Jun 2016 03:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaf54019-03cf-487e-87ab-e8a563828b2c.jpg">]]></description>
+            <link>https://thegrid.ai/samuelmarks/1037ab1c-ac85-439c-8c84-d15de38e6e55/index.html</link>
+            <guid isPermaLink="false">1037ab1c-ac85-439c-8c84-d15de38e6e55</guid>
+            <pubDate>Wed, 08 Jun 2016 03:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e120329-0923-4321-a923-acd9f869162a.jpg">]]></description>
+            <link>https://thegrid.ai/samuelmarks/d2b1d5a8-d457-4c4d-b5de-5ad2fd9ae51a/index.html</link>
+            <guid isPermaLink="false">d2b1d5a8-d457-4c4d-b5de-5ad2fd9ae51a</guid>
+            <pubDate>Wed, 08 Jun 2016 03:01:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
