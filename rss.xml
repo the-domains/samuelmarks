@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[samuelmarks]]></title>
         <description><![CDATA[samuelmarks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/samuelmarks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 03:00:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 09 Jun 2016 03:00:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/samuelmarks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e120329-0923-4321-a923-acd9f869162a.jpg">]]></description>
+            <link>https://thegrid.ai/samuelmarks/d2b1d5a8-d457-4c4d-b5de-5ad2fd9ae51a/index.html</link>
+            <guid isPermaLink="false">d2b1d5a8-d457-4c4d-b5de-5ad2fd9ae51a</guid>
+            <pubDate>Thu, 09 Jun 2016 03:00:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Love is Won kickstarter promo]]></title>
             <description><![CDATA[<article><h1>Love is Won kickstarter promo</h1><p>Samuel talks about "Blessed Are (A Song for Paris)" from his new album Love is Won.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/599f1a9b883f88658aceeeb0f7524834a2eadbe5.jpg"></article>]]></description>
