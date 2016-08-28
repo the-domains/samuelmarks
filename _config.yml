@@ -1,14 +1,28 @@
-layout_spectrum: 0.9917278825305402
+name: samuelmarks
+favicon: null
+layout_spectrum: 0.29866
 typography_spectrum: 0.8680550344288349
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#f7f7f7'
+    - '#020202'
+    - '#363636'
+    - '#ca0a15'
+    - '#a0a0a0'
   brandStrength: 0.06994999502785504
   lightness: 0.3704116279259324
   saturation: 0.45934317051433027
   rhythmicContrast: 0.917847856413573
-  brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-name: samuelmarks
+purpose: []
