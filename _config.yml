@@ -1,20 +1,4 @@
-name: samuelmarks
-favicon: null
-layout_spectrum: 0.96945
 typography_spectrum: 0.8680550344288349
-title: Samuel Marks
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f7f7f7'
@@ -26,4 +10,21 @@ color:
   lightness: 0.4375
   saturation: 0.45934317051433027
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.96945
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: samuelmarks
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Samuel Marks
+description: Love Is Won
 purpose: []
