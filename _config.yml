@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: BUY
+  - name: BUY/LISTEN
     url: samuelmarks.bandcamp.com
     type: external
 favicon: null
