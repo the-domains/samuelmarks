@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Samuel Marks
-    url: 'https://www.kickstarter.com/profile/2087318036'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.kickstarter.com/'
-  name: Kickstarter
-  favicon: null
-  domain: kck.st
+datePublished: '2016-08-27T18:08:03.707Z'
+sourcePath: _posts/2016-06-08-samuel-marks-album-or-love-is-won.md
+inFeed: true
+isBasedOnUrl: 'http://kck.st/1XZo04x'
+authors: []
+hasPage: false
 keywords:
   - album
   - digital
@@ -20,8 +16,14 @@ keywords:
   - fire
   - summers
   - singles
-description: ''
-inLanguage: en
+related: []
+author:
+  - name: Samuel Marks
+    url: 'https://www.kickstarter.com/profile/2087318036'
+    avatar: {}
+via: {}
+dateModified: '2016-08-27T18:08:03.301Z'
+title: ''
 app_links:
   - url: 'ksr://www.kickstarter.com/projects/2087318036/1986666006?app_banner=1'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     type: iphone
     id: '596961532'
     name: Kickstarter
-isBasedOnUrl: 'http://kck.st/1XZo04x'
-title: ''
-datePublished: '2016-06-09T03:00:18.907Z'
-dateModified: '2016-06-08T03:04:09.470Z'
-sourcePath: _posts/2016-06-08-samuel-marks-album-or-love-is-won.md
-starred: false
-inFeed: true
-hasPage: false
+publisher:
+  name: Kickstarter
+  domain: kck.st
+  url: 'https://www.kickstarter.com/'
+  favicon: null
+description: ''
+inLanguage: en
 inNav: false
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
