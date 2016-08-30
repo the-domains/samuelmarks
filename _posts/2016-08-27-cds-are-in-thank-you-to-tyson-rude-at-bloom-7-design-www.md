@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T19:54:47.996Z'
+datePublished: '2016-08-28T19:57:02.503Z'
 sourcePath: _posts/2016-08-27-cds-are-in-thank-you-to-tyson-rude-at-bloom-7-design-www.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,10 +9,10 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-28T19:54:37.358Z'
+dateModified: '2016-08-28T19:57:02.062Z'
 title: ''
 publisher: {}
-description: ' Purchase "Love Is Won" and the EP "I Was Fire" here.'
+description: Purchase "Love Is Won" and the EP "I Was Fire" here.
 inLanguage: null
 inNav: false
 starred: true
