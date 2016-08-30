@@ -1,16 +1,17 @@
 ---
-datePublished: '2016-08-28T18:55:03.011Z'
+datePublished: '2016-08-28T18:55:40.539Z'
 sourcePath: _posts/2016-08-27-i-was-fire-on-spotify-now.md
 inFeed: true
-isBasedOnUrl: 'https://open.spotify.com/album/6PkP3Lqrbal90dEJN0U5mO'
 author: []
 via: {}
-dateModified: '2016-08-28T18:55:02.658Z'
+dateModified: '2016-08-28T18:55:39.329Z'
 title: “I Was Fire” on Spotify now!
 publisher: {}
 description: 'The new single “I Was Fire” just hit Spotify - Check it out! '
+hasPage: true
 starred: false
-_type: MediaObject
+url: i-was-fire-on-spotify-now/index.html
+_type: Article
 
 ---
 # "I Was Fire" on Spotify now!
