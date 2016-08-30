@@ -28,6 +28,9 @@ navigation:
   - name: NEWS
     id: 4c70653f-7ec6-4e9b-bb4a-a038ebd091d6
     type: content
+  - name: BUY/LISTEN
+    url: 'http://samuelmarks.bandcamp.com'
+    type: external
 favicon: null
 title: Samuel Marks
 description: Love Is Won
